@@ -1,5 +1,6 @@
 def my_hash
-  your_hash = Hash.new
+  your_hash = {"asda"=>"fef"}
+  
 end
 
 
